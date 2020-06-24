@@ -1,2 +1,2 @@
 # GIS
-Demonstrate skill and work with GIS tools, data analysis, and data visualization
+Demonstrate GIS and cartography skills using ArcMap and QGIS to visualize geospatial data, problems, or scenarios.
